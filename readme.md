@@ -1,1 +1,1 @@
-[![Alt text](./cituscon2023-aadauth.PNG)](./AAD Authentication CitusCon.pdf)
+[![Alt text](./cituscon2023-aadauth.PNG)](./cituscon2023-aadauth.pdf)
